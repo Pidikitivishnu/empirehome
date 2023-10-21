@@ -5,9 +5,9 @@
     <classes>
       <class name="com.testcases.LoginTest">
         <methods>
-          <include name="Verifylogin"/>
           <include name="teardown"/>
           <include name="setup"/>
+          <include name="Verifylogin"/>
         </methods>
       </class> <!-- com.testcases.LoginTest -->
     </classes>
